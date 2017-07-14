@@ -10,25 +10,18 @@ namespace PSStringIntCompare
     {
         static void Main(string[] args)
         {
-            string apple = "apple";
-            string pear = "pear";
+            CalorieCount cal300 = new CalorieCount(300);
+            CalorieCount cal400 = new CalorieCount(400);
 
-            DisplayOrder(apple, pear);
-            DisplayOrder(pear, apple);
-            DisplayOrder(apple, apple);
+            DisplayOrder(cal300, cal400);
+            DisplayOrder(cal400, cal300);
+            DisplayOrder(cal300, cal300);
 
-            DisplayOrder(3, 4);
-            DisplayOrder(4, 3);
-            DisplayOrder(3, 3);
+            if (cal300 < cal400)
+                Console.WriteLine("cal300 < cal400");
 
-            if (3.CompareTo(4) < 0)
-            {
-                Console.WriteLine("3 < 4");
-            }
-            if (3 < 4)
-            {
-                Console.WriteLine("3 < 4");
-            }
+            if (cal300 == cal400)
+                Console.WriteLine("cal300 == cal400");
         }
 
         static void DisplayOrder<T>(T x, T y) where T : IComparable<T>
