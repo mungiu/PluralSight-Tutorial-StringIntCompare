@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2017\Projects\PSStringIntCompare\PSStringIntCompare\bin\Debug\PSStringIntCompare.exe.config
+c:\users\andrei\documents\visual studio 2017\Projects\PSStringIntCompare\PSStringIntCompare\bin\Debug\PSStringIntCompare.exe
+c:\users\andrei\documents\visual studio 2017\Projects\PSStringIntCompare\PSStringIntCompare\bin\Debug\PSStringIntCompare.pdb
+c:\users\andrei\documents\visual studio 2017\Projects\PSStringIntCompare\PSStringIntCompare\obj\Debug\PSStringIntCompare.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2017\Projects\PSStringIntCompare\PSStringIntCompare\obj\Debug\PSStringIntCompare.exe
+c:\users\andrei\documents\visual studio 2017\Projects\PSStringIntCompare\PSStringIntCompare\obj\Debug\PSStringIntCompare.pdb
